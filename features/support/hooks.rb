@@ -11,5 +11,5 @@ end
 
 at_exit do
   print "\n"
-  print "\#\#\# All Cucumber tests finished. \#\#\#\n"
+  print "\#\#\# Finished. \#\#\#\n"
 end
